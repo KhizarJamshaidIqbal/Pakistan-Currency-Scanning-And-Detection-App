@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782140887521",
+    "project_id": "pcsd-app-d501f",
+    "storage_bucket": "pcsd-app-d501f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782140887521:android:1247a579e58aad429d42a0",
+        "android_client_info": {
+          "package_name": "com.DevGlim.PakistanCurrancyScanningAndDetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjrQlffsCB_9i9JrV0Vwwwr4P-JvLs6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
