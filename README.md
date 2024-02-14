@@ -1,16 +1,8 @@
 # pcsd_app
 
-A new Flutter project.
+#Pakistan Currency Scanning and Detection App For Our Final Year Project
+#Update on 14/02/2024
 
-## Getting Started
+https://github.com/KhizarJamshaidIqbal/Pakistan-Currency-Scanning-And-Detection-App/assets/112169672/91becb46-7bf3-4834-8f5c-48a91dc99204
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
